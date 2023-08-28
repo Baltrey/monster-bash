@@ -1,0 +1,15 @@
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\bin\Debug\net6.0\monster-bash.exe
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\bin\Debug\net6.0\monster-bash.deps.json
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\bin\Debug\net6.0\monster-bash.runtimeconfig.json
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\bin\Debug\net6.0\monster-bash.dll
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\bin\Debug\net6.0\monster-bash.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.csproj.AssemblyReference.cache
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.AssemblyInfoInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.AssemblyInfo.cs
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.csproj.CoreCompileInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.dll
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\refint\monster-bash.dll
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\monster-bash.genruntimeconfig.cache
+c:\Users\baltazar.biverstal\Documents\programering2\monster-bash\monster-bash\obj\Debug\net6.0\ref\monster-bash.dll
